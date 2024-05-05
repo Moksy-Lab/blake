@@ -116,6 +116,9 @@ color: var(--text-Color);
 .testimonialtmrwms6esfu .fdb-block .fdb-box {
     padding: 1.75rem 2.5rem;
 }
+.testimonialtmrwms6esfu .h5{
+    font-size: var(--paragraph);
+}
 /* teamtmihhweefbf */
 .teamtmihhweefbf .fdb-block{
     padding: 0rem 0;
@@ -128,7 +131,7 @@ color: var(--text-Color);
     margin-top: 10px;
 }
 .teamtmihhweefbf .rounded-circle{
-    border-radius: var(--logo-border-radius);
+    border-radius: var(--logo-border-radius) !important;
 }
 /* formftlgrwunk3s */
 .formftlgrwunk3s{
@@ -158,6 +161,10 @@ color: var(--text-Color);
 }
 .footerb6c9fcc0294384085 .h3{
     color: var(--main-Background-Color);
+    font-size: var(--heading-medium);
+}
+.footerb6c9fcc0294384085 h5 {
+    font-size: var(--heading-medium);
 }
 .footerb6c9fcc0294384085 .form-control:focus{
     background: var(--main-Background-Color);
