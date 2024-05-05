@@ -17,7 +17,7 @@
     --button-border-radius: 5px;
     --button-font-weight: 500;
     --logo-border-radius: 15px;
-    --jumbotron-padding: 30px 16px;
+    --jumbotron-padding: 30px 4px;
     --section-padding:30px 0px;
     --heading:50px;
     --heading-large: 35px;
@@ -53,9 +53,12 @@ color: var(--text-Color);
     background-color: var(--primary-Color);
     color: var(--main-Background-Color);
 }
+.abouth66a519b827a7d261 .jumbotron {
+    padding: var(--jumbotron-padding);
+}
 /* fulbf5e57dc82a907a3 */
 .fulbf5e57dc82a907a3 .fdb-block{
-    padding: 3.5rem 0;
+    padding: var(--section-padding);
 }
 .fulbf5e57dc82a907a3 h1{
     font-size: var(--heading-large);
@@ -68,7 +71,7 @@ color: var(--text-Color);
 }
 /* aboute50d5193e4b9f737 */
 .aboute50d5193e4b9f737{
-    padding: 4em;
+    padding: var(--section-padding);
 }
 .aboute50d5193e4b9f737 h2{
     font-size: var(--heading-large);
@@ -84,6 +87,9 @@ color: var(--text-Color);
     margin-left: -40px;
 }
 /* blogec6cc8e186617bf6 */
+.blogec6cc8e186617bf6 {
+    padding: var(--section-padding);
+ }
 .blogec6cc8e186617bf6 .blog-home3 h3{
     font-size: var(--heading-large);
     color: var(--text-Color);
@@ -106,9 +112,15 @@ color: var(--text-Color);
 .blogec6cc8e186617bf6 .blog-home3 a.link:hover {
     color: var(--primary-Color);
 }
+.blogec6cc8e186617bf6 .py-5{
+   padding: 0rem !important;
+}
 /* testimonialtmrwms6esfu */
+.testimonialtmrwms6esfu{
+    padding: var(--section-padding);
+}
 .testimonialtmrwms6esfu .fdb-block{
-    padding: 3.5rem 0;
+    padding: 0rem 0;
 }
 .testimonialtmrwms6esfu .fdb-block .fdb-touch {
     border-top: solid 0.3125rem var(--success-Color);
@@ -120,6 +132,9 @@ color: var(--text-Color);
     font-size: var(--paragraph);
 }
 /* teamtmihhweefbf */
+.teamtmihhweefbf{
+    padding: var(--section-padding);
+}
 .teamtmihhweefbf .fdb-block{
     padding: 0rem 0;
 }
@@ -135,7 +150,7 @@ color: var(--text-Color);
 }
 /* formftlgrwunk3s */
 .formftlgrwunk3s{
-    padding: 4em;
+    padding: var(--section-padding);
 }
 .formftlgrwunk3s h1 {
     font-size: var(--heading-large);
