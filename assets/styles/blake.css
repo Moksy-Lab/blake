@@ -41,6 +41,10 @@ color: var(--text-Color);
  background-color: var(--primary-Color);
  color: var(--main-Background-Color);
 }
+.headere871d461930b46f7 .logo{
+    height: 60px;
+    width: 60px;
+}
 /* abouth66a519b827a7d261 */
 .abouth66a519b827a7d261 .DescriptionHeading{
     font-size: var(--heading);
