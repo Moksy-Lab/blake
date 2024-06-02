@@ -47,6 +47,9 @@ color: var(--text-Color);
 }
 /* abouth66a519b827a7d261 */
 .abouth66a519b827a7d261 .DescriptionHeading{
+    overflow: hidden;
+}
+.abouth66a519b827a7d261 .DescriptionHeading{
     font-size: var(--heading);
     color: var(--text-Color);
 }
